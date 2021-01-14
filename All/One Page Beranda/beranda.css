@@ -799,7 +799,6 @@ nav ul li a:hover{
 @media screen and (max-width:576px){
     body{
         width: 95%;
-        font-family: "Font Digital";
     }
     #logo {
         margin-top: 5px;
@@ -850,6 +849,7 @@ nav ul li a:hover{
         font-size: 13px;
         padding: 2px;
         background-color: #FCC453;
+        font-family: "Font Digital";
     }
 
     .gambar,.gambar2{
