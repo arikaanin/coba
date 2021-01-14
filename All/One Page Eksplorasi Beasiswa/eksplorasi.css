@@ -633,8 +633,6 @@ nav ul li a:hover{
         transform: translateX(0);
         transition: all 1s;
     }
-
-    .slide
     
     #menu {
         font-size: 15px; 
