@@ -81,12 +81,6 @@ nav ul li a:hover{
     margin-top: 20px;
 }
 
-.toogle input{
-    width: 30px;
-    height: 30px;
-    position: absolute;
-    opacity: 0;
-}
 #st{
     transform-origin: 0 0;
 } 
@@ -95,21 +89,8 @@ nav ul li a:hover{
     transform-origin: 0 100%;
 }
 
-.toogle input:checked ~ #st{
-    transform: rotate(45deg) translate(-1.5px, -1.5px);
-}
-
-.toogle input:checked ~ #nd{
-    display: none;
-}
-
-.toogle input:checked ~ #rd{
-    transform: rotate(-45deg) translate(-1.5px, -0.5px);
-}
-
 .toogle span {
     z-index: -1;
-    position: relative;
     display: none;
     width: 28px;
     height: 3px;
@@ -653,14 +634,14 @@ nav ul li a:hover{
         transition: all 1s;
     }
     
-    nav ul li a{
+    #menu {
         font-size: 15px; 
     }
     
     .btn {
-        height: 5vh;
-        width: 18vh;
-        font-size: 13px;
+        height: 5.5vh;
+        width: 24vh;
+        font-size: 14px;
         padding: 2px;
     }
 
