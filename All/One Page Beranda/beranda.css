@@ -798,7 +798,7 @@ nav ul li a:hover{
 /*patokan device ukuran 360 x 560*/
 @media screen and (max-width:576px){
     body{
-        width: 90%;
+        width: 95%;
     }
     #logo {
         margin-top: 5px;
@@ -861,7 +861,7 @@ nav ul li a:hover{
     }
     .gambar3{
         display: block;
-        width: 108%;
+        width: 106.5%;
     }
     #welkam{
         margin-left: -8%;
@@ -877,7 +877,7 @@ nav ul li a:hover{
         font-size: 12px;
     }
     #divkalender{
-        width: 113%;
+        width: 106%;
     }
     #judul1{
         font-size: 20px;
@@ -950,7 +950,7 @@ nav ul li a:hover{
         height: 20px;
     }
     #seminar{
-        width: 115%;
+        width: 106.5%;
         height: 145px;
         margin-top: -6%;
         justify-content: center;
@@ -978,7 +978,7 @@ nav ul li a:hover{
         height: 20px;
     }
     #footergambar{
-        width: 115%;
+        width: 106.5%;
     }
     #judulinfo{
         font-size: 20px;
@@ -996,7 +996,7 @@ nav ul li a:hover{
         width: 97%;
     }
     .footer2{
-        width: 125%;
+        width: 116.5%;
     }
     .judulfooter{
         font-size: 13px;
@@ -1014,7 +1014,7 @@ nav ul li a:hover{
         height: 20px;
     }
     .lastfooter {
-        padding-right: 15%;
+        padding-right: 6.5%;
     }
     .sosialmedia{
         margin-left: -12%;
